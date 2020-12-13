@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1557838683 source:c:\users\sakli\onedrive\bureau\mini-projet kais\travail\projet info houssem v2\main.c
+	"Projet_Houssem.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1557707151 c:\users\sakli\onedrive\bureau\mini-projet kais\travail\projet info houssem v2\projet_houssem.h
+
+1557838269 source:c:\users\sakli\onedrive\bureau\mini-projet kais\travail\projet info houssem v2\projet_houssem.c
+	"Projet_Houssem.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1558790281 source:f:\bureau\mini-projet kais\travail\projet info houssem v2\main.c
+	"Projet_Houssem.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1557707151 f:\bureau\mini-projet kais\travail\projet info houssem v2\projet_houssem.h
+
+1557838269 source:f:\bureau\mini-projet kais\travail\projet info houssem v2\projet_houssem.c
+	"Projet_Houssem.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
